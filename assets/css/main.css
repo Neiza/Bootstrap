@@ -14,13 +14,17 @@ body{
 
 .title{
 }
-/*.bgred{
+.bgred{
   background-color:#ed7161;
+  color: white;
+  height: 35px;
 }
-
+.nav-bar{
+  color: white;
+}
 .bg-blueligth{
   background-color: #9accef;
-}*/
+}
 
 .bg-gray{;
   background-color: #eeeeee;
@@ -89,4 +93,25 @@ input{
       padding-right: 14px;
       margin: 0 auto;
   }
+}
+
+
+body{
+  font-weight: 400;
+  line-height: 24px;
+}
+.bg-dodgerblue{
+  background-color:#3498DB;
+}
+.txt-white{
+  color: white;
+}
+.bg-social{
+  background-color: #1280c9;
+  border-radius: 50%;
+}
+i{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
 }
