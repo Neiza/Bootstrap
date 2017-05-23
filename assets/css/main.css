@@ -12,6 +12,8 @@ body{
   letter-spacing: 0.5px;
 }
 
+.title{
+}
 /*.bgred{
   background-color:#ed7161;
 }
@@ -30,6 +32,10 @@ body{
 
 .blueligth{
   color: #3498db;
+}
+
+.black{
+  color: black;
 }
 
 
@@ -55,10 +61,17 @@ body{
   width: 45px;
   height: 45px;
   background-size: cover;
-  background-position-x:-20px;
   background-repeat: no-repeat;
 }
 
+#getYourQuote a{
+    margin-top: -20px;
+}
+
+.pad{
+  margin-top: -20px;
+  }
+}
 .text{
   border-bottom: 1px solid #9e9e9e;
   padding-bottom: 30px;
